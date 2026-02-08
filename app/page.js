@@ -1,7 +1,7 @@
 // app/page.js
 import Navbar from "./Navbar";
 import ProductCard from "./ProductCard";
-// import { Smartphone, BatteryCharging, Headphones } from "lucide-react";
+import { Smartphone, BatteryCharging, Headphones } from "../node_modules/lucide-react";
 import TypingEffect from "./TypingEffect";
 import { products } from './ProductData';
 import Swiper from './SwipereSction';
